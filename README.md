@@ -22,8 +22,3 @@ A Python-based interactive **code-themed escape room game**, built using **PyGam
 - 🐍 Python 3.x
 - 🎮 PyGame for UI and event handling
 - 💡 Amazon Q CLI for rapid file scaffolding and dev guidance
-
-## 🚀 Getting Started
-
-To play the game:
-1. Install dependencies:
